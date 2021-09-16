@@ -28,3 +28,34 @@ The concept of heated seats is adopted by almost every latest models by all auto
 
 ### Weaknesses
 
+## 4 W's and 1 H
+
+### Who
+* Anyone seating in the car as per the requirement
+
+### What
+* Automatic seat warmer inorder to get comfortable temperature in car
+
+### When
+* When the temperature of surrounding is too less during winter season and need the body to be warm while driving so that can able to drive comfortablly
+
+### Why
+* To provide a appropriate temperature to body while driving
+
+## High Level Requirements
+|Id | Descriptions |
+|---|---|
+|HLR-1 | Button sensor to check driver is seated or not|
+|HLR-2 | Temperature sensor to detect in cabin temperature|
+|HLR-3 | LED actuator shows the driver is seated or not |
+|HRL-4 | Display the temperature value in LCD by taking PWM values |
+
+## Low Level Requirements 
+|ID|HLD- ID | ADC value | Temp |
+|---|---|---|---|
+|LLR-1| HLR-2 | 0-200 | 20 degree celcius|
+|LLR-2| HLR-2 | 210-500 | 25 degree celsius |
+|LLR-3 | HLR-2 | 510-700 | 29 degree celcius |
+|LLR-4 | HLR-2 | 710-1024| 33 degree celcius |
+
+
