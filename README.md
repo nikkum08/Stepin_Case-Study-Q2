@@ -1,6 +1,6 @@
-# Embedded C Programming Examples with Continuous Integration and Code Quality
+# Automatic Car Seat Heater prototype using Atmega 328
 
-# LED Blinking 
+# 
 
 ## In Action
 
