@@ -1,4 +1,5 @@
 # Automatic Car Seat heater using Atmega 328
+The concept of heated seats is adopted by almost every latest models by all automobile company these days like Toyota, Honda, KIA, etc, the company is offering heated seats in the cars to provide comfort as in some places temperature are too low (below 5 degree celcius to even in negative) and the dashboard centralized AC is not capable to maintain proper warmer temperature in cabin. Keeping this idea a prototype module is implemented in this project.
 
 
 
